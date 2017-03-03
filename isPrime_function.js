@@ -9,3 +9,5 @@ function isPrime(num) {
     }
     return divider === 2
 }
+
+//Function should determine if number is prime using trial division algorithm
